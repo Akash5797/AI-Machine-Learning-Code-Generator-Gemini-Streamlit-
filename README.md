@@ -16,7 +16,7 @@ This app allows users to describe a Machine Learning task in **natural language*
 - Web search capability via DuckDuckGo
 - Secure API key handling with `.env`
 - Clean UI with output persistence
-- Code returned in Markdown (` ```python``` `)
+- Code returned in Markdown (`python`)
 
 ---
 
@@ -35,5 +35,6 @@ This app allows users to describe a Machine Learning task in **natural language*
 - **seaborn**
 
 ---
+
 
 
